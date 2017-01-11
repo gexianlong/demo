@@ -19,6 +19,7 @@ while 1 == 1:
     code = check_code()
     print(code)
     print(code)
+    print(code)
     # app = input("请输入验证码：")
     # print(app)
     # if app == code:
